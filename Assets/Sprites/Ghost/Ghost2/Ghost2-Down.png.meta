@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 17c5cb1c0389d1b458cc0a35df296e87
+guid: 1fc122d3f2728904fb9ea4ebcb536255
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PowerPellet_0
+      name: Ghost2-Down_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0489988505180e0449dc9108312d6e06
-      internalID: -78629273
+      spriteID: a1d16ade2f66f5448a891589bf2b606f
+      internalID: -2107321581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PowerPellet_1
+      name: Ghost2-Down_1
       rect:
         serializedVersion: 2
         x: 64
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ca881742f970374b9a10c30e26e5e38
-      internalID: -2122745659
+      spriteID: c0efedaaf557ead4e8921258bb45d7a4
+      internalID: -31646738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PowerPellet_2
+      name: Ghost2-Down_2
       rect:
         serializedVersion: 2
         x: 128
@@ -163,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09e1d2759cc2dd44f8aa8cd5153b5431
-      internalID: 2046202387
+      spriteID: 08897fd287464b149a1f88e59b675709
+      internalID: 43770948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PowerPellet_3
+      name: Ghost2-Down_3
       rect:
         serializedVersion: 2
         x: 192
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5056d1f3d6c1f5a42886d5bd3f2796fd
-      internalID: 959356117
+      spriteID: 2271c6bb36bdc0e4580fd4d2c1893255
+      internalID: -1318487012
       vertices: []
       indices: 
       edges: []
@@ -201,10 +201,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PowerPellet_0: -78629273
-      PowerPellet_1: -2122745659
-      PowerPellet_2: 2046202387
-      PowerPellet_3: 959356117
+      Ghost2-Down_0: -2107321581
+      Ghost2-Down_1: -31646738
+      Ghost2-Down_2: 43770948
+      Ghost2-Down_3: -1318487012
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

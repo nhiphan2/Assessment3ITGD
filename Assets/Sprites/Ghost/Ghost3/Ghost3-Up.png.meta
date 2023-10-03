@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 17c5cb1c0389d1b458cc0a35df296e87
+guid: ed5a8f63ff5c79740abe065970edbb97
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PowerPellet_0
+      name: Ghost3-Up_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0489988505180e0449dc9108312d6e06
-      internalID: -78629273
+      spriteID: c1c45310d18827448ac5c8ee8cf25957
+      internalID: 77206233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PowerPellet_1
+      name: Ghost3-Up_1
       rect:
         serializedVersion: 2
         x: 64
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ca881742f970374b9a10c30e26e5e38
-      internalID: -2122745659
+      spriteID: cf80a772fd98db948afb91c431d5ce91
+      internalID: -1733473856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PowerPellet_2
+      name: Ghost3-Up_2
       rect:
         serializedVersion: 2
         x: 128
@@ -163,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09e1d2759cc2dd44f8aa8cd5153b5431
-      internalID: 2046202387
+      spriteID: 18316460fe82bfe4582b646092d5cc07
+      internalID: 2135807834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PowerPellet_3
+      name: Ghost3-Up_3
       rect:
         serializedVersion: 2
         x: 192
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5056d1f3d6c1f5a42886d5bd3f2796fd
-      internalID: 959356117
+      spriteID: 8489afcda1cc48747be30be1285ffe0e
+      internalID: -628700261
       vertices: []
       indices: 
       edges: []
@@ -201,10 +201,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PowerPellet_0: -78629273
-      PowerPellet_1: -2122745659
-      PowerPellet_2: 2046202387
-      PowerPellet_3: 959356117
+      Ghost3-Up_0: 77206233
+      Ghost3-Up_1: -1733473856
+      Ghost3-Up_2: 2135807834
+      Ghost3-Up_3: -628700261
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

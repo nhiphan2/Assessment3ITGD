@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 17c5cb1c0389d1b458cc0a35df296e87
+guid: bf2e3c7c02755814f8241d8ca6d19431
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,7 +107,49 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PowerPellet_0
+      name: PlayerLeft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39bddfba41f7f2498813f042c9c2397
+      internalID: 1972969497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLeft_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a579e8c84e8d04a949dfcf9de8d0a4
+      internalID: 1644434117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLeft_2
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0489988505180e0449dc9108312d6e06
-      internalID: -78629273
+      spriteID: 52e9d9d61d366224398c1459623d2a34
+      internalID: 907062945
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PowerPellet_1
+      name: PlayerLeft_3
       rect:
         serializedVersion: 2
         x: 64
@@ -142,50 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ca881742f970374b9a10c30e26e5e38
-      internalID: -2122745659
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PowerPellet_2
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 09e1d2759cc2dd44f8aa8cd5153b5431
-      internalID: 2046202387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PowerPellet_3
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5056d1f3d6c1f5a42886d5bd3f2796fd
-      internalID: 959356117
+      spriteID: c6484cc48660ac04496ff3d770e78615
+      internalID: 407292759
       vertices: []
       indices: 
       edges: []
@@ -201,10 +201,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PowerPellet_0: -78629273
-      PowerPellet_1: -2122745659
-      PowerPellet_2: 2046202387
-      PowerPellet_3: 959356117
+      PlayerLeft_0: 1972969497
+      PlayerLeft_1: 1644434117
+      PlayerLeft_2: 907062945
+      PlayerLeft_3: 407292759
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
